@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "NOW ON AIR",
+  "base_artist": "Akai Ko-En",
+  "createdAt": "2025-12-02T20:14:05.550555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now On Air",
+      "artist": "Akai Ko-En",
+      "has_synced": true,
+      "path": "select/01_Now_On_Air_Akai_Ko-En.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "now on air",
+      "artist": "akai koen",
+      "has_synced": true,
+      "path": "select/02_now_on_air_akai_koen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Now On Air",
+      "artist": "伊藤美来",
+      "has_synced": true,
+      "path": "select/03_Now_On_Air_伊藤美来.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOW ON AIR",
+      "artist": "赤い公園",
+      "has_synced": false,
+      "path": "select/pl_01_NOW_ON_AIR_赤い公園.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "NOW ON AIR",
+      "artist": "赤い公園",
+      "has_synced": false,
+      "path": "select/pl_02_NOW_ON_AIR_赤い公園.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "NOW ON AIR",
+      "artist": "赤い公園",
+      "has_synced": false,
+      "path": "select/pl_03_NOW_ON_AIR_赤い公園.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "NOW ON AIR",
+      "artist": "赤い公園",
+      "has_synced": false,
+      "path": "select/pl_04_NOW_ON_AIR_赤い公園.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "NOW ON AIR",
+      "artist": "赤い公園",
+      "has_synced": false,
+      "path": "select/pl_05_NOW_ON_AIR_赤い公園.txt"
+    }
+  ]
+}
